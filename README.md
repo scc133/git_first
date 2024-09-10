@@ -10,3 +10,5 @@
 ## 인생 첫 커밋을 만들었습니다. 저는 git을 사용하는 개발자 입니다.👍👍👍
 
 ## 두개의 파일:File_add.md, FileToBeRemoved.md를 추가 후, FileToBeRemoved.md는 지워짐
+
+👍😊😂❤️🤣😍🙌😁💕😘👌😒
